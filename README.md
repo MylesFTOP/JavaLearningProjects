@@ -7,3 +7,6 @@ Software being used:
 
 Study resources:
 1. SoloLearn
+
+Additional tools to look into:
+1. ProGuard / DexGuard
